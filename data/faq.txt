@@ -1,0 +1,89 @@
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password". Enter your registered email address and you will receive a password reset link within 5 minutes. Click the link and follow the instructions to set a new password. If you don't receive the email, check your spam folder.
+
+Q: My computer is not turning on. What should I do?
+A: First, check if the power cable is properly connected. Try pressing the power button for 10 seconds. If it still doesn't turn on, check if the power outlet is working by plugging in another device. If using a laptop, connect the charger and wait 10 minutes before trying again. If none of these work, contact the helpdesk for further assistance.
+
+Q: How do I connect to the company VPN?
+A: Download and install the VPN client from the company portal. Open the VPN application and enter your company credentials (username and password). Select the nearest server location and click Connect. If you face issues, make sure your internet connection is working and try restarting the VPN client.
+
+Q: My internet connection is very slow. How do I fix it?
+A: First, restart your router and modem by unplugging them for 30 seconds. Check if other devices are also experiencing slow internet. Close unnecessary browser tabs and applications consuming bandwidth. Run a speed test at speedtest.net to check your current speed. If the issue persists, contact your internet service provider or the IT helpdesk.
+
+Q: How do I set up my company email on my phone?
+A: Go to your phone's Settings and select Mail or Accounts. Choose Add Account and select Microsoft Exchange or Google depending on your company email. Enter your company email address and password. The server settings will be configured automatically. If not, contact the IT helpdesk for the server details specific to your organization.
+
+Q: My screen is flickering. What should I do?
+A: Check if the monitor cable is properly connected to your computer. Try adjusting the screen refresh rate by going to Display Settings and selecting Advanced Display Settings. Update your graphics driver through Device Manager. If using a laptop, check if the issue occurs when plugged in and on battery. If the problem continues, the monitor or display may need replacement.
+
+Q: How do I install software on my work computer?
+A: Most software installations require IT admin approval. Submit a software request through the IT helpdesk portal with the software name and business reason. Once approved, the IT team will either install it remotely or provide you with installation instructions. Do not attempt to install unauthorized software as it may violate company policy.
+
+Q: How do I recover deleted files?
+A: Check the Recycle Bin on your desktop first and restore the file from there. If the file is not in the Recycle Bin, check if your files are backed up on OneDrive or Google Drive. Contact the IT helpdesk to check if a backup exists on the server. Act quickly as backups are typically retained for 30 days.
+
+Q: My keyboard is not working. What should I do?
+A: If using a wired keyboard, unplug and reconnect it to a different USB port. For wireless keyboards, replace the batteries and check the USB receiver is connected. Restart your computer and check if the keyboard works after reboot. Try the keyboard on another computer to determine if it is a hardware issue. If nothing works, request a replacement from the IT helpdesk.
+
+Q: How do I take a screenshot on Windows?
+A: Press the Print Screen key to capture the entire screen. Press Alt + Print Screen to capture only the active window. Press Windows + Shift + S to open the Snipping Tool for a custom screenshot. The screenshot is copied to your clipboard and can be pasted into any application using Ctrl + V.
+
+Q: How do I share files with my colleagues?
+A: Use the company approved file sharing platforms such as OneDrive, Google Drive, or SharePoint. Upload the file to the platform and right click to select Share. Enter the email address of your colleague and set the appropriate permissions. Avoid sharing sensitive files through personal email or USB drives.
+
+Q: My printer is not printing. What should I do?
+A: Check if the printer is turned on and connected to the network. Make sure there is paper in the tray and no paper jam. Go to Control Panel and open Printers and Devices to check the printer status. Try cancelling all pending print jobs and print again. Restart the printer and your computer. If the issue continues, contact the IT helpdesk.
+
+Q: How do I join a Microsoft Teams meeting?
+A: Click the meeting link in your calendar invite or email. If you have Teams installed, it will open automatically. Click Join Now to enter the meeting. Make sure your microphone and camera are working before joining. If you don't have Teams installed, you can join through a web browser without installation.
+
+Q: How do I enable two factor authentication?
+A: Go to your account settings and select Security. Click on Two Factor Authentication and choose your preferred method such as SMS or authenticator app. Follow the on screen instructions to complete the setup. Once enabled, you will be asked for a verification code every time you log in from a new device.
+
+Q: My computer is running very slowly. How do I fix it?
+A: Restart your computer as it clears temporary files and frees up memory. Close unnecessary applications and browser tabs running in the background. Check Task Manager by pressing Ctrl + Shift + Esc to identify programs using high CPU or memory. Run a disk cleanup to remove temporary files. If the issue persists, contact the IT helpdesk for a full system checkup.
+
+Q: How do I update my operating system?
+A: On Windows, go to Settings and select Windows Update. Click Check for Updates and install any available updates. On Mac, go to System Preferences and select Software Update. It is recommended to restart your computer after updates are installed. Keep your OS updated to ensure security and performance.
+
+Q: How do I change my computer's display resolution?
+A: Right click on the desktop and select Display Settings. Scroll down to Display Resolution and choose your preferred resolution from the dropdown. Click Apply and confirm the change. The recommended resolution is usually highlighted for your monitor.
+
+Q: What should I do if I receive a suspicious email?
+A: Do not click any links or download attachments from suspicious emails. Do not reply to the email or provide any personal or company information. Report the email to the IT security team by forwarding it to security@company.com. Delete the email from your inbox immediately after reporting.
+
+Q: How do I connect to a wireless network?
+A: Click the WiFi icon in the taskbar at the bottom right of your screen. A list of available networks will appear. Select your company network and click Connect. Enter the WiFi password when prompted. If you do not know the password, contact the IT helpdesk.
+
+Q: How do I set up a new employee's computer?
+A: Submit a new employee setup request through the IT helpdesk portal at least 3 days before the joining date. Provide the employee's name, department, and required software. The IT team will prepare the computer with the necessary applications, accounts, and access permissions. The computer will be ready on the joining date.
+
+Q: How do I back up my data?
+A: Save all important files to OneDrive or the company network drive which are backed up automatically. You can also manually back up files by copying them to an external hard drive. Enable automatic backup in your system settings for continuous protection. Contact the IT helpdesk if you need help setting up automatic backups.
+
+Q: My mouse is not working. What should I do?
+A: For a wired mouse, unplug and reconnect it to a different USB port. For a wireless mouse, replace the batteries and ensure the USB receiver is connected. Restart your computer and check if the mouse works. Try the mouse on another computer to determine if it is a hardware issue. Request a replacement from the IT helpdesk if needed.
+
+Q: How do I access company files remotely?
+A: Use the company VPN to securely connect to the company network from home. Once connected, you can access files through the network drive or SharePoint. Make sure you are connected to the VPN before accessing any company resources. Contact the IT helpdesk if you need VPN credentials or setup help.
+
+Q: What is the password policy for company accounts?
+A: Passwords must be at least 12 characters long and include uppercase letters, lowercase letters, numbers, and special characters. Passwords must be changed every 90 days. Do not reuse the last 5 passwords. Never share your password with anyone including IT staff. Use a password manager to securely store your passwords.
+
+Q: How do I request a new software license?
+A: Submit a software license request through the IT helpdesk portal. Include the software name, version, number of licenses required, and business justification. The request will be reviewed and approved by your manager and the IT team. Once approved, the license will be procured and installed within 5 business days.
+
+Q: My webcam is not working during video calls. What should I do?
+A: Check if the webcam is properly connected if it is an external device. Go to Device Manager and check if the webcam driver is installed correctly. Make sure the video conferencing application has permission to access the camera in your system settings. Restart the application and try again. If the issue continues, contact the IT helpdesk.
+
+Q: How do I set up a shared mailbox in Outlook?
+A: Open Outlook and go to File then Account Settings. Click on Account Settings again and select New. Choose Manual Setup and enter the shared mailbox email address. The shared mailbox will appear in your Outlook sidebar. Contact the IT helpdesk if you need access permissions to the shared mailbox.
+
+Q: What should I do if my laptop is stolen or lost?
+A: Report the theft or loss to your manager and the IT helpdesk immediately. The IT team will remotely wipe the device to protect company data. File a police report if the device was stolen. The IT team will arrange a replacement device as soon as possible. Change all your passwords immediately as a precaution.
+
+Q: How do I clear my browser cache?
+A: In Chrome, press Ctrl + Shift + Delete and select Cached Images and Files. Choose the time range and click Clear Data. In Firefox, press Ctrl + Shift + Delete and select Cache. In Edge, press Ctrl + Shift + Delete and select Cached Images and Files. Clearing cache can resolve many website loading issues.
+
+Q: How do I add a printer in Windows?
+A: Go to Settings and select Devices then Printers and Scanners. Click Add a Printer or Scanner and wait for Windows to detect available printers. Select your printer from the list and click Add Device. If the printer is not detected, click The Printer I Want Isn't Listed and follow the manual setup instructions.
